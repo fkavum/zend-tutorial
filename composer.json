@@ -19,7 +19,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Portal\\": "module/Portal/src/",
+      "Application\\": "module/Application/src/",
       "ZFT\\": "module/ZFT/src"
     }
   },
