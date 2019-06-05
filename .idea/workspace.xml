@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84f5c908-309f-4772-be3e-7635f06b3871" name="Default" comment="" />
@@ -169,7 +169,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="configListe&#9;FILE&#9;file://D:/xampp/htdocs/otherdocs/zendSoap/skeleton-application/vendor/zendframework/zend-modulemanager/src/Listener/ConfigListener.php&#10;configlis&#9;null&#9;null&#10;getAuto&#9;null&#9;null&#10;Module.php&#9;FILE&#9;file://D:/xampp/htdocs/otherdocs/zendSoap/skeleton-application/module/Application/src/Module.php" />
+    <property name="SearchEverywhereHistoryKey" value="configListe&#9;FILE&#9;file://D:/xampp/htdocs/otherdocs/zendSoap/skeleton-application/vendor/zendframework/zend-modulemanager/src/Listener/ConfigListener.php&#10;configlis&#9;null&#9;null&#10;getAuto&#9;null&#9;null&#10;Module.php&#9;FILE&#9;file://D:/xampp/htdocs/otherdocs/zendSoap/skeleton-application/module/Portal/src/Module.php" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
@@ -264,7 +264,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/module/Application/src/Controller/IndexController.php</url>
+          <url>file://$PROJECT_DIR$/module/Portal/src/Controller/IndexController.php</url>
           <line>14</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
@@ -312,13 +312,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/module/Application/test/Controller/IndexControllerTest.php">
+    <entry file="file://$PROJECT_DIR$/module/Portal/test/Controller/IndexControllerTest.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/module/Application/src/Module.php">
+    <entry file="file://$PROJECT_DIR$/module/Portal/src/Module.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/module/Application/config/module.config.php">
+    <entry file="file://$PROJECT_DIR$/module/Portal/config/module.config.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
           <caret line="37" column="6" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="37" selection-end-column="6" />
@@ -346,7 +346,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/module/Application/src/Controller/IndexController.php">
+    <entry file="file://$PROJECT_DIR$/module/Portal/src/Controller/IndexController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
