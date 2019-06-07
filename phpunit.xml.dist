@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <phpunit colors="true">
     <testsuites>
-        <testsuite name="Web Issu Portal Test Suite">
-            <directory>./module/Portal/test</directory>
+
+        <testsuite name="Application Entities Test Suite">
+            <directory>./module/ZFT/test</directory>
         </testsuite>
+        <testsuite name="Web Issu Portal Test Suite">
+        <directory>./module/Portal/test</directory>
+    </testsuite>
+
     </testsuites>
 </phpunit>
