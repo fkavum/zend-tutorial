@@ -61,6 +61,11 @@
       <path value="$PROJECT_DIR$/vendor/zendframework/zend-console" />
       <path value="$PROJECT_DIR$/vendor/zendframework/zend-dom" />
       <path value="$PROJECT_DIR$/vendor/zendframework/zend-test" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-ldap" />
+      <path value="$PROJECT_DIR$/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-cache" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-authentication" />
     </include_path>
   </component>
 </project>

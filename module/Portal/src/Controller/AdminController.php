@@ -11,7 +11,7 @@ use Zend\Mvc\Controller\AbstractActionController;
 use Zend\View\Model\ViewModel;
 use ZFT\User;
 
-class IndexController extends AbstractActionController
+class AdminController extends AbstractActionController
 {
     /** @var User\Repository */
     private $userRepository;
@@ -25,11 +25,4 @@ class IndexController extends AbstractActionController
         $user = $this->userRepository->getUserById(5);
         return new ViewModel();
     }
-
-
-
-
-
-
-
 }

@@ -15,7 +15,14 @@
     "php": "^5.6 || ^7.0",
     "zendframework/zend-mvc": "^3.0.1",
     "zfcampus/zf-development-mode": "^3.0",
-    "zendframework/zend-soap": "^2.8"
+    "zendframework/zend-soap": "^2.8",
+    "zendframework/zend-log": "^2.10",
+    "zendframework/zend-db": "^2.10",
+    "zendframework/zend-session": "^2.8",
+    "zendframework/zend-json": "*",
+    "zendframework/zend-ldap": "^2.10",
+    "zendframework/zend-cache": "^2.8.2",
+    "zendframework/zend-authentication": "*"
   },
   "autoload": {
     "psr-4": {
@@ -44,9 +51,6 @@
   },
   "require-dev": {
     "zendframework/zend-component-installer": "^2.1",
-    "zendframework/zend-db": "^2.10",
-    "zendframework/zend-session": "^2.8",
-    "zendframework/zend-log": "^2.10",
     "zendframework/zend-developer-tools": "^1.2",
     "zendframework/zend-test": "^3.2"
   }

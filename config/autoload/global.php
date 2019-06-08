@@ -13,5 +13,13 @@
 
 return [
 
+    'ldapServers' => [
+        'mainDC' => [
+
+        ],
+        'apacheDS' => [
+
+        ]
+    ]
     // ...
 ];
