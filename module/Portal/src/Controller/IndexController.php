@@ -5,14 +5,18 @@
  * @license   http://framework.zend.com/license/new-bsd New BSD License
  */
 
-namespace Application;
+namespace Portal\Controller;
 
-class Module
+use Zend\Mvc\Controller\AbstractActionController;
+use Zend\View\Model\ViewModel;
+use ZFT\User;
+
+class IndexController extends AbstractActionController
 {
-    const VERSION = '3.0.3-dev';
-
-    public function getConfig()
+    public function indexAction()
     {
-        return include __DIR__ . '/../config/module.config.php';
+        $user = new User();
+
+        return new ViewModel();
     }
 }
