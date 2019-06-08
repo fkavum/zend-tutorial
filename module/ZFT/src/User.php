@@ -4,4 +4,6 @@
 namespace ZFT;
 
 class User
-{ }
+{
+
+}

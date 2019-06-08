@@ -35,7 +35,7 @@ class Module implements ServiceProviderInterface
             'factories' => [
                 PostgresDataMapper::class => InvokableFactory::class,
                 MemoryIdentityMap::class => InvokableFactory::class,
-                UserRepository::class => RepositoryFactory::class
+                UserRepository::class => RepositoryFactory::class  //User repository service created.
             ]
         ];
 
